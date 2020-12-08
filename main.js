@@ -865,7 +865,7 @@ oh_shocked.src = 'sprites\\Ohare_shocked.png';
 
 entrance_back.src = 'sprites\\entrance.jpg';
 
-motel_back.src = 'sprites\\room.png';
+motel_back.src = 'sprites\\Room.png';
 
 roof_back.src = 'sprites\\rooftop.jpg';
 
